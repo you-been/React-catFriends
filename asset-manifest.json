@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-catFriends/static/css/main.d3470564.css",
+    "main.js": "/React-catFriends/static/js/main.4f472bea.js",
+    "index.html": "/React-catFriends/index.html",
+    "main.d3470564.css.map": "/React-catFriends/static/css/main.d3470564.css.map",
+    "main.4f472bea.js.map": "/React-catFriends/static/js/main.4f472bea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3470564.css",
+    "static/js/main.4f472bea.js"
+  ]
+}
